@@ -2,7 +2,7 @@
 In diesem Kurs erstellen wir mit den boardmitteln von Minecraft unser eigenes Spiel. Gerade z.B. bedwars.
 
 ### weitere Infos:
-KidsLab seite: https://kidslab.de
+KidsLab seite: https://kidslab.de  
 Kursbeschreibung: https://pretix.eu/kidslab/redstone/
 
 ### weitere Fragen?
