@@ -7,3 +7,6 @@ Kursbeschreibung: https://pretix.eu/kidslab/redstone/
 
 ### weitere Fragen?
 gerne an mich per Signal wenden oder per mail an matze@kidslab.de
+
+## Kursinterner Austausch von Commands etc:
+https://pad.kidslab.de/mcp
