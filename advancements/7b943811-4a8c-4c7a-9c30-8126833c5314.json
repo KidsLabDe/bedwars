@@ -6611,14 +6611,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-24 18:02:36 +0200",
-      "has_the_recipe": "2025-07-24 18:02:36 +0200",
-      "has_iron_ingot": "2025-07-24 18:02:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-24 18:02:36 +0200",
@@ -10867,5 +10859,5 @@
     },
     "done": true
   },
-  "DataVersion": 4440
+  "DataVersion": 4556
 }
